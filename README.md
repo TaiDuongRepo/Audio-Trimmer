@@ -6,11 +6,11 @@ Cắt và chỉnh sửa audio chuyên nghiệp trên nền web. Hỗ trợ các 
 
 ### Trang chủ
 
-![Trang chủ](homepage.png)
+![Trang chủ](img/homepage.png)
 
 ### Giao diện cắt audio
 
-![Giao diện cắt audio](trim.png)
+![Giao diện cắt audio](img/trim.png)
 
 ## Hướng dẫn sử dụng
 
